@@ -1,5 +1,5 @@
 111
 222
 333
-creating a new branch is quick AND simple.add merge
+creating a new branch is quick AND simple.Git is a free software
 
